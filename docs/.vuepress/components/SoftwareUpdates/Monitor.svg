@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="740" viewBox="0 0 264.583 79.375">
+  <g style="display:inline">
+    <g style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" transform="matrix(.21167 0 0 .21167 -2.392 -13.258)">
+      <rect style="fill:none" height="512" width="512"/>
+      <rect style="fill:#000000" height="14.309" width="332.046" x="89.118" y="343.602"/>
+      <path style="fill:#1a1a1a" d="M94.886 136.354h320.496c3.172 0 5.768 2.596 5.768 5.768v205.45c0 3.173-2.596 5.769-5.768 5.769H94.886c-3.173 0-5.769-2.596-5.769-5.769v-205.45c0-3.172 2.596-5.768 5.769-5.768z"/>
+      <g>
+      <rect style="fill:black;stroke:#000000;stroke-width:0.125102" height="194.209" width="312.421" x="99.732" y="148.522" >
+      	<text x="0" y="50" font-family="Verdana" font-size="35" fill="blue">Hello</text>
+		</rect>
+	</g>
+      <rect style="fill:#cccccc" height="10.95" width="410.281" x="50.86" y="357.853"/>
+      <path style="fill:#999999" d="M227.684 357.853h56.632v1.706a3.844 3.844 0 0 1-3.833 3.833h-48.967a3.844 3.844 0 0 1-3.832-3.833v-1.706z"/>
+      <path style="fill:#b3b3b3" d="M256 368.803h204.626a.17.17 0 0 1 .17.17c0 3.18-14.04 5.969-22.38 6.673H73.584c-8.339-.704-22.38-3.492-22.38-6.673 0-.093.077-.17.17-.17H256z"/>
+      <g>
+        <circle style="fill:#424242" r="1.2" transform="matrix(1.30067 1.32352 -1.32373 1.30047 255.134 142.182)"/>
+        <circle style="fill:#595959" r="1.2" transform="matrix(1.00675 1.02443 -1.02459 1.00659 255.134 142.182)"/>
+        <path style="fill:#636363" d="M256.364 140.973a1.723 1.723 0 0 1-.436 2.738c-.48-.256-.895-.719-1.127-1.32-.258-.669-.232-1.364.019-1.905.544-.1 1.127.062 1.544.487z"/>
+      </g>
+    </g>
+</g>
+</svg>

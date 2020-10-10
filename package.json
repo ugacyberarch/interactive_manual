@@ -1,0 +1,40 @@
+{
+  "name": "cyberarch",
+  "version": "0.0.1",
+  "repository": "git@git.warrick.io:kwarrick/cyberarch.git",
+  "author": "Kevin Warrick <kevinjwarrick@gmail.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "animate.css": "^3.6.1",
+    "animejs": "^2.2.0",
+    "common-tags": "^1.8.0",
+    "cytoscape": "^3.6.2",
+    "d3": "^5.5.0",
+    "gsap": "^2.1.3",
+    "hover.css": "^2.3.2",
+    "hsimp-checks": "^0.1.2",
+    "hsimp-main": "^0.2.0",
+    "jquery": "^3.3.1",
+    "js-sha1": "^0.6.0",
+    "keypair": "^1.0.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.24.0",
+    "psl": "^1.1.28",
+    "tippy.js": "^2.5.4",
+    "typed.js": "^2.0.8",
+    "typeit": "^6.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.2",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "tailwindcss": "^0.7.3",
+    "vuepress": "^0.10.1"
+  }
+}
