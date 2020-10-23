@@ -74,22 +74,22 @@ module.exports = {
         collapsable: false,
         children: [
           ["/ransomware/", "Introduction"],
-          ["/ransomware/how-ransomware-works", "How Ransomware Works"],
-          [ "/ransomware/payments-and-bitcoin", "Cryptocurrency and Paying Ransoms"],
-          ["/ransomware/how-to-avoid-ransomware", "How To Avoid Ransomware"],
-          ["/ransomware/how-to-respond", "How To Respond To A Ransomware Attack"]
+          //["/ransomware/how-ransomware-works", "How Ransomware Works"],
+          //[ "/ransomware/payments-and-bitcoin", "Cryptocurrency and Paying Ransoms"],
+          ["/ransomware/how-to-avoid-ransomware", "How To Report A Ransomware Attack"],
+          //["/ransomware/how-to-respond", "How To Respond To A Ransomware Attack"]
         ]
       },
       {
-        title: 'Public and Private Networks',
+        title: 'Data Breaches and Data Leaks',
         collapsable: false,
         children: [
-          ['/public_private_networks/', 'Introduction'],
-          ['/public_private_networks/vpn', 'Virtual Private Networks'],
-          ['/public_private_networks/public-wifi', 'Public Wi-Fi'],
+          //['/public_private_networks/', 'Introduction'],
+          ['/public_private_networks/vpn', 'Who to Contact in the Event of a Data Break or Data Leak'],
+          ['/public_private_networks/public-wifi', 'When to Report a Data Breach or Data Leak'],
         ]
       },
-      {
+      /*{
         title: "Software Updates",
         collapsable: false,
         children: [
@@ -110,7 +110,7 @@ module.exports = {
           ['/firewalls/hardware-software-firewalls', 'Hardware Vs. Software Firewalls'],
           ["/firewalls/summary", "Summary"]
         ]
-      }
+      }*/
     ]
   }
 };
