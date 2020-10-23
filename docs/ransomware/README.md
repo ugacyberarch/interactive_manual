@@ -1,14 +1,4 @@
 # Ransomware
+## What is ransomware?
 
-We've all seen movies or heard stories about a wealthy family having a beloved
-child taken away from their homes as bait for large amounts of money.  In the
-digital world, that family can be you and that child can be your precious files
-and data. 
-
-All it takes is one wrong download and everything you have on your computer can
-be lost forever. Or at least until you ante up a large amount of money for your
-access back.  This phenomenon is known as Ransomware. 
-
-Ransomware has been a been a prominent issue in the cybersecurity landscape for
-decades now. By definition, ransomware is a type of malicious software designed
-to block access to a computer system until a sum of money is paid. 
+Ransomware is a form of malware installed by a hacker that denies access to files or data on an infected computer or network until the victim pays the hacker a fee, or ransom. Ransomware usually blocks access through encryption, whereby the malware conceals whatever files it can access and tells the victim that access will be regained if they pay the ransom. Ransomware can also work through lock out, whereby the malware locks victims out of their systems so that they cannot access anything on their computer. If the ransom demands are not met, the encrypted data might remain unavailable or be deleted. 
