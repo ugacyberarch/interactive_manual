@@ -1,46 +1,28 @@
-# Avoiding Ransomware
+# How To Report A Ransomware Attack
 
-Now that you know what ransomware is, it's important to take steps to ensure
-you're never a victim of it.  Avoiding ransomware involves an understanding of
-the many vulnerabilities that can lead to an attack. 
+**Who in law enforcement should be contacted when an organization is ransomed?**
 
-**Email Security**
+Victims of ransomware should report to the Cybersecurity and Infrastructure Security Agency (CISA), a local Federal Bureau of Investigation (FBI) field office, or a local United States Secret Service (USSS) field office.<sup>5</sup> The FBI also recommends that victims file a complaint with the Internet Crime Complaint Center (IC3), with the following ransomware infection details: (1) the victim’s name, telephone number, and email address; (2) financial transaction information, including information concerning the account, transaction date and amount, and who received the payment; (3) information concerning the subject or entity allegedly controlling the ransomware, including the subject’s name, address, telephone number, email, website, and IP address (if available); (4) specific details about the ransomware attack; (5) an email header; and (6) any other relevant information concerning the attack.<sup>6</sup> 
 
-Many ransomware attacks originate in the email inbox.  According to a 2016
-report conducted by PhishMe, 93% of all phishing emails contain encryption
-ransomware. These emails will include an attachment and instructions asking you
-to open it in order to launch the attack.  We cover phishing emails more in
-depth in the section "Phishing".
+**What options does an organization have when it experiences a ransomware attack?**
 
-**Backups**
- 
-File backups are one of those things you never realize the value of preparing
-until you need it. There are many other computer related incidents you may need
-a backup for, so it's a great practice in general. We cover backups more in
-depth in the "Backups" section. 
-
-**Keep all Software Up To Date**
-
-Two famous ransomware attacks WannaCry and Petna both took advantage of
-vulnerabilities in computers that had not been updated. Hackers find their
-nesting grounds for malware in unsupported and outdated systems. These systems
-have unpatched security exploits that allow for direct access to the machine.
-This can even render any firewall or antivirus useless. It's important to keep
-your software and apps up to date in terms of available updates. We cover the
-importance of software updates more in depth in the "Software Updates" section. 
-
-**Learn to Identify Fake Links**
-
-Another common way for hackers to deliver ransomware to your computer is
-through fake websites advertising free content. These download links are often
-disguised as the content the user wants to download. Majority of those sites
-lead to illegal and unethical methods of receiving that content to begin with,
-so it is best to stay clear of them completely. We cover fake links more in
-depth in the "Phishing" section under fake links. 
+Even with the best cybersecurity measures in place, ransomware attacks are not completely preventable. Businesses affected by a request for ransom should implement a security incident response and business continuity plan. It might take time for the organization’s IT professionals to remove the ransomware threat to the systems and restore data and normal operations. In the meantime, the business should take steps to maintain the organization’s essential functions according to the business continuity plan. Organizations should maintain and regularly test backup plans, disaster recovery plans, and business continuity procedures.<sup>7</sup> When an attack occurs, law enforcement generally discourages paying the ransom because payment does not guarantee that the victim will regain access to their data; in fact, some individuals or organizations are never provided with decryption keys after paying a ransom. Paying a ransom can embolden the hacker to target other victims and provide incentive for other criminals to engage in similar illicit activities for profit.<sup>8</sup> Though the FBI does not support paying a ransom, it recognizes that executives, when faced with inoperability issues, will evaluate all options to protect their shareholders, employees, and customers.<sup>9</sup> Although paying the ransom might not guarantee a return of data, it is up to the victim to determine whether the risks and costs of paying are worth the possibility of getting its files back.<sup>10</sup> 
 
 
-**Have a Strong Combination of Security Software** 
+**What reporting procedures are required by law?**
 
-A combination of a firewall, an anti-virus program, and an anti-malware program
-is recommended to help protect you. However, even the best of the best is not
-always guaranteed to save you from every attack.
+According to the Federal Information Security Management Act (FISMA), all federal agencies must develop formal incident response capabilities and must report ransomware attacks and other similar incidents to the United States Computer Emergency Readiness Team (US-CERT), an office within the Department of Homeland Security that assists federal agencies in their incident handling efforts.<sup>11</sup> For other entities, the United States does not have a uniform data breach notification law or ransomware law. Therefore, in the event of a ransomware attack, businesses should consider various state-by-state requirements and, in some instances, federal industry-specific requirements.<sup>12</sup> 
+
+Only two states have data breach statutes specifically covering ransomware: New Jersey and Connecticut. The New Jersey statute applies to any business that conducts business in New Jersey, as well as any public entity that compiles or maintains computerized records that include personal information (PI) of New Jersey residents.<sup>13</sup> Under the statute, these covered businesses and entities must notify their New Jersey–based customers if their PI was, or is reasonably believed to have been, accessed by an unauthorized person.<sup>14</sup> Before notifying customers, any business or entity covered by the statute must also report ransomware attacks to New Jersey’s Division of State Police in the Department of Law and Public Safety.<sup>15</sup> Similarly, under Connecticut law, businesses that conduct business in the state must disclose to Connecticut residents if their PI is subject to a ransomware attack, and the businesses must report the attack to the state’s attorney general.<sup>16</sup> 
+
+What sets these particular ransomware statutes apart from many state data breach statutes is that the notification requirement is triggered upon mere access—and not acquisition—of PI. The line between access and acquisition is not clear and can differ between jurisdictions, but some states appear to treat access as a lower, easier-to-satisfy standard.<sup>17</sup> Neither the New Jersey statute nor the Connecticut statute define what access is, making notification under the statutes a fact-intensive question. However, case law concerning two federal statutes that use the term “access”—the Computer Fraud and Abuse Act (“CFAA”) and the Stored Communications Act (“SCA”)—shed light on how access can be interpreted under state data breach laws. Although neither of these federal statutes defines the term access, courts have interpreted the term broadly. For instance, in a CFAA case, access was defined pursuant to Merriam Webster’s Dictionary as “to gain access to” and “the freedom and ability to make use of something.”<sup>18</sup> In a SCA case, access was interpreted to mean “being in position to acquire the contents of a communication.”<sup>19</sup> 
+
+For many states with data breach statutes, however, notification is required when there is both unauthorized access and acquisition of PI. In these states, if a ransomware attack leads to the attacker not only accessing but also acquiring PI, then the attack may be categorized as a data breach for purposes of the statute. Under Georgia’s statute, for example, notification is required only when there is an unauthorized acquisition of PI.<sup>20</sup>  Like many states, Georgia does not define unauthorized access or unauthorized acquisition. However, when determining whether information has been unlawfully acquired, Vermont’s data breach statute provides guidelines that recommend considering if the information is in the physical possession and control of an unauthorized person; if there are indications that the information has been downloaded or copied; or indications that the information was used by an unauthorized person, such as reports of identity theft or opening fraudulent accounts.<sup>21</sup> Alaska’s data breach statute also states that acquisition can include taking the information through a paper-based method such as photocopying or facsimile, or through a device—including a computer—that can read, write, or store information represented in numerical form.<sup>22</sup> 
+
+It is important to note that Georgia’s data breach notification statute applies only to information brokers or data collectors that maintain computerized information regarding individuals’ PI.<sup>23</sup> For the purposes of this statute, information brokers are persons or entities that engage in whole or in part in the business of collecting, evaluating, transferring, or communicating information concerning individuals for the primary purpose of furnishing personal information to nonaffiliated third parties.<sup>24</sup>  Data collectors are defined as state or local agencies or subdivisions thereof; the only governmental agencies excluded from this definition are those who maintain records primarily for traffic safety, law enforcement, licensing purposes, or for the purposes of providing public access to court records or to real or personal property information.<sup>25</sup> 
+
+For businesses operating in states and jurisdictions that do not have statutes requiring disclosure of ransomware attacks or data breaches, it is still advisable to file a police report to create an evidentiary record if a business wishes to file a claim under its cybersecurity insurance policy. Moreover, if a ransomware attack involves an immediate threat to public health or safety, the victim should call 911.<sup>26</sup> 
+
+Some ransomware attacks are also covered under the Health Insurance Portability and Accountability Act (HIPPA). Under HIPPA, a company might be subject to ransomware notification regulations if it is a “covered entity” or “business associate” of the covered entity and collects, stores, or uses protected health information (PHI).<sup>27</sup> Under the HIPPA Security Rule, the existence of ransomware on a covered entity’s or business associate’s computer systems requires the entity or associate  to initiate security incident, response, and reporting procedures and contact its local FBI or USSS field office.<sup>28</sup> If the ransomware involves the encryption of electronic PHI (ePHI) or if the covered entity or business associate cannot show that there is a “low probability PHI has been compromised,” then the attack is considered a data breach and there might be further notification requirements under the HIPPA Breach Notification Rule.<sup>29</sup> 
+
+
