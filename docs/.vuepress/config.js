@@ -84,9 +84,9 @@ module.exports = {
         title: 'Data Breaches and Data Leaks',
         collapsable: false,
         children: [
-          //['/public_private_networks/', 'Introduction'],
-          ['/public_private_networks/vpn', 'Who to Contact in the Event of a Data Break or Data Leak'],
-          ['/public_private_networks/public-wifi', 'When to Report a Data Breach or Data Leak'],
+          //['/data_breach_leaks/', 'Introduction'],
+          ['/data_breach_leaks/who-to-contact-data-breach-leak', 'Who to Contact in the Event of a Data Break or Data Leak'],
+          ['/data_breach_leaks/kinds-of-breaches-leaks', 'When to Report a Data Breach or Data Leak'],
         ]
       },
       /*{
