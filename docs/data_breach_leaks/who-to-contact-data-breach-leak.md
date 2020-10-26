@@ -19,10 +19,3 @@ The HIPPA Breach Notification Rule also sometimes requires notification to the m
 In addition to notifying affected individuals and the media (where appropriate), covered entities must notify the Secretary of Health and Human Services of breaches of unsecured protected health information.<sup>60</sup> If a breach affects 500 or more individuals, covered entities must notify the Secretary without unreasonable delay and in no case later than 60 days following a breach. If, however, a breach affects fewer than 500 individuals, the covered entity may notify the Secretary of these breaches on an annual basis.<sup>61</sup>
 
 If a breach of unsecured PHI occurs at or by a business associate, the business associate must notify the covered entity following the discovery of the breach.<sup>62</sup> A business associate must provide notice to the covered entity without unreasonable delay and no later than 60 days from the discovery of the breach.<sup>63</sup> If possible, the business associate should provide the covered entity with the identification of each individual affected by the breach as well as any other available information required to be provided by the covered entity in its notification to affected individuals.<sup>64</sup>
-
-
-
-
-
-
-
